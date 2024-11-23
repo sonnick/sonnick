@@ -1,8 +1,3 @@
-## Hi there 👋 I am Dicknickson Kipruto
-
-<!--
-**sonnick/sonnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on Advancing Autonomous Driving Solutions:  Focusing on a project to develop innovative technologies for autonomous vehicles, focusing on sensor integration, AI-driven decision-making, and real-time data processing to enhance safety, efficiency, and autonomy in transportation.<br>👯 I’m looking to collaborate on projects involving autonomous driving, AI for mobility, sensor integration, and safety innovative solutions.<br>🤝 I’m looking for help with: Computer vision projects, leveraging large language models (LLMs) for advanced decision-making, refining autonomous driving algorithms, optimizing sensor fusion techniques<br>🌱 I’m currently learning Quant, Bigdata, Data Engineering and enhancing security frameworks for AI-driven systems<br>💬  Ask me about Machine learning, Artificial Intelligence, AWS Cloud and Data analytics<br>📫 How to reach me dicknickson27@gmail.com or https://www.linkedin.com/in/dicknickson-kipruto-746a4311b/<br>⚡ Fun fact I like learning new technologies, Empathetic, Goal oriented and Fun to interact with.<br>
 
